@@ -1,6 +1,6 @@
 {
   "name": "@alakipalaki/alakiaddress-extractor",
-  "version": "62.0.0",
+  "version": "62.1.0",
   "description": "UTXO box extractor for any address or token.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

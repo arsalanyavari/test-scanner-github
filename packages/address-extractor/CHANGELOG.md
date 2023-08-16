@@ -1,5 +1,11 @@
 # @alakipalaki/alakiaddress-extractor
 
+## 62.1.0
+
+### Minor Changes
+
+- dfc15f5: versioning
+
 ## 62.0.0
 
 ### Major Changes
